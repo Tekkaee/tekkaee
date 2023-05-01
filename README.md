@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Valera. <br>I'm currently working with reactjs and graphql.
+My name is Valeriy. <br>I'm currently working with reactjs and graphql.
 
 
 ## 🌐 Socials:
