@@ -1,6 +1,5 @@
 # 💫 About Me:
-My name is Valeriy. <br>I'm currently working with reactjs and graphql. <br>I'm also writing a mobile app startup with flutter, a backend with nestjs/graphql/prostgresql and a cms system with reactjs/antdesign.
-
+My name is Valeriy. <br>Came into the world of frontend programming. I love layout and communicating with designers. I've been using reactjs and flutter for two years now. Had a chance to look at and work with the following ui libraries: chakra, mui, antdesign and bootstrap. Learned graphql and currently use it as a basis for communicating with api. Favourite language is js. That's why I chose nestjs to learn backend.  Trying to keep up with new things in the world of frontend and crossplatform. <br>I'm also writing a mobile app startup with flutter, a backend with nestjs/graphql/prostgresql and a cms system with reactjs/antdesign.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valeriy-sascheko-b648461b5) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tekkaee) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21513266) 
