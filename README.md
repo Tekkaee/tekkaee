@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Valeriy. <br>I'm currently working with reactjs and graphql.
+My name is Valeriy. <br>I'm currently working with reactjs and graphql. <br>I am currently working with reactjs and graphql. I'm also writing a mobile app startup with flutter, a backend with nestjs/graphql/prostgresql and a cms system with reactjs/antdesign.
 
 
 ## 🌐 Socials:
