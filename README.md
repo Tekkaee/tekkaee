@@ -1,5 +1,6 @@
 # 💫 About Me:
-My name is Valery. <br>I came to the world of frontend programming. I love layout and communication with designers. Had the opportunity to familiarize and work with the following ui libraries: chakra, mui, antdesign, as well as bootstrap and thailwind. My favorite language is js. That's why I chose frontend. I prefer to use Reactjs/Nextjs in my projects. I follow the latest innovations in the technologies used.
+Hello, everyone!<br>
+My name is Valery. <br>I love layout and communication with designers. Had the opportunity to familiarize and work with the following ui libraries: chakra, mui, antdesign, as well as bootstrap and thailwind. My favorite language is js. That's why I chose frontend. I prefer to use Reactjs/Nextjs in my projects. I follow the latest innovations in the technologies used.
 
 
 ## 🌐 Socials:
